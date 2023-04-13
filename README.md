@@ -6,7 +6,7 @@ Help an airline company find meaningful customer segments to better target their
 ## Overall Process
 First, implemented clustering to seperate customers into meaningful groups based on similar flying traits.
 
-\dot Cluster 1: Frequent 1st-Class Flyers There are 27.8% of the customers in this cluster who are repeat flyers, and 87.7% of flights taken in the clusters are first-class flights. On average, this cluster spent $622 on a flight, which is $200 more than any other cluster. This is the smallest 23 cluster, with 2.4% of all customers. Of the 38% of customers in the cluster who are Ufly members, 97.3% are standard members.
+* Cluster 1: Frequent 1st-Class Flyers There are 27.8% of the customers in this cluster who are repeat flyers, and 87.7% of flights taken in the clusters are first-class flights. On average, this cluster spent $622 on a flight, which is $200 more than any other cluster. This is the smallest 23 cluster, with 2.4% of all customers. Of the 38% of customers in the cluster who are Ufly members, 97.3% are standard members.
 
 Cluster 2: One Time Low Spenders This cluster has only 8% repeat flyers, which is 5% less than any other cluster. This cluster is distinct by how, on average, customers spend $107 per flight, which is over $200 less than any other cluster.
 
